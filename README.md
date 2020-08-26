@@ -10,7 +10,7 @@
 
 #### Bloco 1: Introdução - Unix & Shell ####
 
-###### [x]1-3: Unix & Shell - Parte 1 #######
+###### :white_check_mark: 1-3: Unix & Shell - Parte 1 #######
 ###### [x]1-4: Unix & Shell - Parte 2 #######
 ###### [x]1-5: Shell Script #######
 
