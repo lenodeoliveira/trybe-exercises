@@ -16,16 +16,16 @@
 
 #### Bloco 2: Git & GitHub ####
 
-###### - [x]2-1: O que é e para que serve #######
-###### - [x]2-2: Entendo os comandos #######
-###### - [x]2-3: Internet - Entendo como ela funciona #######
+###### - [x] 2-1: O que é e para que serve #######
+###### - [x] 2-2: Entendo os comandos #######
+###### - [x] 2-3: Internet - Entendo como ela funciona #######
 
 #### Bloco 3: Introdução - HTML & CSS ####
 
-###### - [x]3-1: HTML & CSS - Estruturas de página #######
-###### - [x]3-2: HTML & CSS - Primeiros passos em CSS #######
-###### - [x]3-3: HTML & CSS - Seletores e posicionamento #######
-###### - [x]3-4: HTML Semântico #######
+###### - [x] 3-1: HTML & CSS - Estruturas de página #######
+###### - [x] 3-2: HTML & CSS - Primeiros passos em CSS #######
+###### - [x] 3-3: HTML & CSS - Seletores e posicionamento #######
+###### - [x] 3-4: HTML Semântico #######
 ###### - :hourglass_flowing_sand: 3-5: Projeto - HTML & CSS #######
 
 
