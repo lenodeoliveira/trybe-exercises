@@ -1,0 +1,11 @@
+./phrases2.txt
+./bunch_of_things.txt
+./top_skills.txt
+./backup/trybe_backup.txt
+./skills2.txt
+./tudo.txt
+./countries.txt
+./sskill.txt
+./kill.txt
+./skills.txt
+./ss.txt
