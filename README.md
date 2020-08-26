@@ -8,24 +8,24 @@
 
 ## Introdução - Desenvolvimento Web :white_check_mark: ##
 
-#### Bloco 1: Introdução - Unix & Shell ####
+#### - [x] Bloco 1: Introdução - Unix & Shell ####
 
 ###### :white_check_mark: 1-3: Unix & Shell - Parte 1 #######
-###### [x]1-4: Unix & Shell - Parte 2 #######
-###### [x]1-5: Shell Script #######
+###### :white_check_mark: 1-4: Unix & Shell - Parte 2 #######
+###### :white_check_mark: 1-5: Shell Script #######
 
-#### Bloco 2: Git & GitHub ####
+#### - [x] Bloco 2: Git & GitHub ####
 
-###### - [x] 2-1: O que é e para que serve #######
-###### - [x] 2-2: Entendo os comandos #######
-###### - [x] 2-3: Internet - Entendo como ela funciona #######
+###### :white_check_mark: 2-1: O que é e para que serve #######
+###### :white_check_mark: 2-2: Entendo os comandos #######
+###### :white_check_mark: 2-3: Internet - Entendo como ela funciona #######
 
-#### Bloco 3: Introdução - HTML & CSS ####
+#### - [] :hourglass_flowing_sand: Bloco 3: Introdução - HTML & CSS ####
 
-###### - [x] 3-1: HTML & CSS - Estruturas de página #######
-###### - [x] 3-2: HTML & CSS - Primeiros passos em CSS #######
-###### - [x] 3-3: HTML & CSS - Seletores e posicionamento #######
-###### - [x] 3-4: HTML Semântico #######
-###### - :hourglass_flowing_sand: 3-5: Projeto - HTML & CSS #######
+###### :white_check_mark: 3-1: HTML & CSS - Estruturas de página #######
+###### :white_check_mark: 3-2: HTML & CSS - Primeiros passos em CSS #######
+###### :white_check_mark: 3-3: HTML & CSS - Seletores e posicionamento #######
+###### :white_check_mark: 3-4: HTML Semântico #######
+###### :hourglass_flowing_sand: 3-5: Projeto - HTML & CSS #######
 
 
