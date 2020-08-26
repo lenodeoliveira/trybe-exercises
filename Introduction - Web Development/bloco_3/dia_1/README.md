@@ -10,7 +10,7 @@ Este desafio pede que seja feita um lista ordenada e não ordenada com uma lista
 
 ### A imagens HTML - imagens.html ###
 
-Este desafio busca praticar a utilização de imagens em uma página HTML. Para isso foi necessário utilizar a tag <img> para adicionar três fotos diferentes, além disso dentro da tag foram utilizados os parâmetros <alt>, onde vai a descrição da imagem, e <width>, que altera a largura da imagem.
+Este desafio busca praticar a utilização de imagens em uma página HTML. Para isso foi necessário utilizar a tag \*<img>\* para adicionar três fotos diferentes, além disso dentro da tag foram utilizados os parâmetros <alt>, onde vai a descrição da imagem, e <width>, que altera a largura da imagem.
 
 ### Links - links.html ###
 
