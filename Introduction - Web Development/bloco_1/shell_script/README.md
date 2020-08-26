@@ -1,4 +1,4 @@
-# Exercicos de shell script primeiras semanas Trybe :roquet: #
+# Exercicos de shell script primeiras semanas Trybe :rocket #
 
 ### Exercicio comandos-iniciais ###
 
