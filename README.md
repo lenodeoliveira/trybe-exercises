@@ -29,4 +29,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 3-4: HTML Semântico 
 - [x] 3-5: Projeto - HTML & CSS 
 
+#### Bloco 4: Introdução - JavaScript ####
+
+- [ ] 4-1: JavaScript - Primeiros passos 
+- [ ] 4-2: JavaScript - Array e loop For
+- [ ] 4-3: JavaScript - Lógica de Programação e Algoritmos
+- [ ] 4-4: JavaScript - Objetos e funções
+- [ ] 4-5: Projeto - Playground Functions
+
+#### Bloco 5: JavaScript - DOM e seletores ####
+
+- [ ] 5-1: JavaScript - DOM e seletores
+- [ ] 5-2: JavaScript - Trabalhando com elementos
+- [ ] 5-3: JavaScript - Eventos
+- [ ] 5-4: JavaScript - Web Storage
+- [ ] 5-5: Introdução - JavaScript - Projetos
+- [ ] 5-5: Projeto - Meme Generator
+- [ ] 5-6: Projeto - Arte com Pixels
+- [ ] 5-7: Projeto - Lista de tarefas
+- [ ] 5-7: (Bônus) Projeto - Adivinhe a Cor
+- [ ] 5-7: (Bônus) Projeto - Carta Misteriosa
+
+
+
+
+
+
+ 
 
