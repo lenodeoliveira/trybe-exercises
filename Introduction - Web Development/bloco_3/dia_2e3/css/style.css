@@ -1,0 +1,110 @@
+body {
+
+    background-color:black;
+}
+
+
+.linha {
+
+    border: transparent #5D6063;
+    border-radius: 25px;
+    margin: 50px 50px;
+    background-color: #f0ebeb;
+
+}
+.img-perfil .minha-foto{
+
+    position: relative;
+	left: 33%;
+    border-radius: 15px;
+    border: 2px solid #5D6063;
+    width: 150px;
+    margin: 50px 150px 2px 150px;
+}
+
+.logo-trybe .logo{
+
+    position: relative;
+    left: 594px;
+    margin: 0px 50px 10px 10px;
+    width: 60px;
+
+}
+
+.nome {
+
+    text-align: center;
+    font-family: cursive;
+}
+
+.lista li {
+
+    display: inline-block;
+    padding: 10px 10px;
+
+}
+
+.lista-habilidades {
+
+    padding: 1px 10px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+ #formacao, #link, #program, #frame, #certificado, #link1, #link2{
+
+    text-decoration: none;
+    color: #5D6063;
+} 
+
+.sobre, .formacao-academica{
+
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    color: #333333;
+    padding: 10px 0px 0px 230px;
+    width: 800px;
+
+}
+
+.cursos {
+
+    margin: 70px 0px 50px 0px;
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    color: #333333;
+    padding: 10px 0px 0px 230px;
+    width: 800px;
+}
+
+.projetos {
+
+    margin: 70px 0px 50px 0px;
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    color: #333333;
+    padding: 10px 0px 100px 230px;
+    width: 800px;
+}
+
+.footer {
+
+    margin: 60px 70px 70px 70px;
+    padding: 10px 100px 30px 100px;
+    
+    
+}
+
+.links {
+
+    margin: 0px 10px 0px 10px;
+    padding: 10px 10px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,101 @@
+body {
+    background-color:black;
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    text-align: justify;
+}
+
+nav {
+    background-color: white;
+    border-bottom: 1px solid wheat;
+    height: 50px;
+    margin: 0;
+}
+
+.navegacao {
+    color:black;
+    display: inline-block;
+    margin: 15px 0;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+article img {
+
+    width: 200px;
+    border-radius: 25px;
+}
+
+#inicio {
+    color: whitesmoke;
+    font-size: 25px;
+    margin-left: 20px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+#principal {
+    background-color: whitesmoke;
+    border-radius: 35px;
+    float: left;
+    margin: 0 10px 0 20px;
+    padding: 0 10px;
+    width: 54%;
+}
+
+#principal h2 {
+
+    text-align: center;
+}
+
+
+#aside {
+    background-color: moccasin;
+    border: 1px solid mistyrose;
+    border-radius: 35px;
+    float: right;
+    margin: 0 20px 0 10px;
+    padding: 010px;
+    width: 38%;
+}
+
+table {
+    margin: 0 170px 0 160px;
+    text-align: center;
+}
+
+#table {
+    text-align: center;
+}
+
+.video {
+
+    font-size: 15px;
+    margin: 0 10px;
+    text-align: center;
+}
+
+iframe {
+    
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 110px;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+#rodape {
+    color: white;
+    padding-top: 1px;
+    text-align: center;
+    clear: both;
+}
+
+#rodape h1 {
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}

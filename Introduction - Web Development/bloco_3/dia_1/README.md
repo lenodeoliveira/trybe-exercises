@@ -19,3 +19,12 @@ Neste desafio a tag `<ul>`, `<li>` e principalmente a tag `<a>` com o parâmetro
 ### Jump around - ids.html ###
 
 No último desafio o objetivo era trabalhar com id's afim de melhorar a nevagação do site. Utilizando também a tag `<a>` para criar redirecionamentos a diferentes partes da página.
+
+### Blog para portfólio- blog.html ###
+
+Criação de um Blog para portfólio colocando as tecnologias aprendidas e primeiros contatos com programação.
+
+### Challenge: A picture-perfect trip | praias-sc.html
+
+Neste desafio foi proposto que criássemos uma página para uma viagem perfeita, então foi criado uma página com praias paradisíacas de Florianopolis onde colocamos as alguns pontos turísticos e algumas comidas típicas.
+
