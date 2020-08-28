@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript const</h2>
+
+<p id="demo"></p>
+<p id="value"></p>
+<p id="updatedValue">Valor inicial vazio</p>
+
+<script>
+try {
+  
+        const PI = 3.141592653589793;
+        document.getElementById("value").innerHTML = PI; //irá gerar um erro, pos PI é uma constante.
+        PI = 3.14;
+        document.getElementById("updatedValue").innerHTML = PI; //imprimirá PI
+        }
+        catch (err) {
+        document.getElementById("demo").innerHTML = err;
+        }
+
+</script>
+
+</body>
+</html>

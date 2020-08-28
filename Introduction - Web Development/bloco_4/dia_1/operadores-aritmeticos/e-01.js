@@ -1,0 +1,1 @@
+alert(2 * 20); //operador de multiplicação
