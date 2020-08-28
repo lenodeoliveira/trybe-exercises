@@ -1,6 +1,9 @@
-let conceito = 1;
+let conceito = 50;
 
-if (conceito >= 90) {
+if (conceito < 0 || conceito > 100) {
+    console.log('Error');
+}
+else if (conceito >= 90) {
 
     console.log('A');
 }
@@ -20,7 +23,7 @@ else if(conceito >= 50 && conceito < 60)
 {
     console.log('E');
 }
-else
+else if(conceito < 50)
 {
     console.log('F');
 }
