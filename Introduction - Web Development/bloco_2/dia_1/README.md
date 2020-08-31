@@ -1,4 +1,4 @@
-# Primeiras passos Git e GitHub #
+# Primeiros passos Git e GitHub #
 
 ## Comandos git ##
 
