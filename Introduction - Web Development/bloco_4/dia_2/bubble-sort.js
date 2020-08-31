@@ -1,7 +1,4 @@
-
-
 let numbers = [5,4,3,30,2,1,0];
-
 
 for (let i = 0; i <numbers.length; i ++) { 
    
@@ -16,4 +13,4 @@ for (let i = 0; i <numbers.length; i ++) {
         
         } 
 } 
-console.log(numbers.join(', ')); 
+console.log(numbers.join(', '));  
