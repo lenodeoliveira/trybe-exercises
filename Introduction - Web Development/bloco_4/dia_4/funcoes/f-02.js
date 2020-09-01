@@ -1,21 +1,13 @@
 
-function indiceMaior(array){
-
-    let meuArray = [];
-    meuArray = array;
-    let indice;
-    for (let i = 0; i < meuArray.length; i++) {
-
-        for (let j = 1; j < meuArray.length; j++) {
-
-            if(meuArray[i] > meuArray[j]){
-                indice = i;
-            }
-        }
+function indiceMaior(numeros) {
+    
+    let Maior = 0;
+    for (let index in numeros) {
+      if (numeros[Maior] < numeros[index]) {
+        Maior = index;
+      }
     }
-    return indice;
-}
-
-let meuArray = [2, 3, 6, 7, 10, 1];
-
-console.log(indiceMaior(meuArray));
+    return Maior;
+  }
+  
+  console.log(indiceMaior([2, 3, 6, 7, 10, 1]));
