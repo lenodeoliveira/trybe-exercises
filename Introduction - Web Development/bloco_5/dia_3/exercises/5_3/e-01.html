@@ -71,22 +71,19 @@
         console qual dos eventos acabou de ocorrer.
       </p>
       <!-- Adicione a tag <img /> aqui -->
-      <img
-        class="bonus"
-        src="https://cdn.pixabay.com/photo/2015/11/17/13/13/dogue-de-bordeaux-1047521_960_720.jpg"
-        />
+      <img class="bonus"src="cafe.jpg" width="400px"/>
 
     <script>
       // Exercise 3
       const elementImg = document.querySelector(".bonus");
-      elementImg.addEventListener("mouseover", function (evento) {
-        elementImg.src = "https://cdn.pixabay.com/photo/2016/10/31/14/55/rottweiler-1785760_960_720.jpg";
-        console.log("O evento foi:", evento.type);
+      elementImg.addEventListener("mouseover", function (event) {
+        elementImg.src = "cafe.jpg";
+        console.log("O evento foi:", event.type);
       });
 
-      elementImg.addEventListener("mouseleave", function (evento) {
-        elementImg.src = "https://cdn.pixabay.com/photo/2015/11/17/13/13/dogue-de-bordeaux-1047521_960_720.jpg";
-        console.log("O evento foi:", evento.type);
+      elementImg.addEventListener("mouseleave", function (event) {
+        elementImg.src = "developer.jpg";
+        console.log("O evento foi:", event.type);
       });
     </script>
     </div>
