@@ -62,9 +62,14 @@
         let elementoPai = document.body;
         let titulo = document.createElement('h1');
         elementoPai.appendChild(titulo);
-
         let texto  = document.createTextNode("Exercício 5.2 - JavaScript DOM");
         titulo.appendChild(texto);
+
+        //2 Adicione a tag div com a classe main-content como filho da tag body;
+        let tagDiv = document.createElement('div');
+        tagDiv.className = 'main-content';
+
+        elementoPai.appendChild(tagDiv);
 
 
     </script>
