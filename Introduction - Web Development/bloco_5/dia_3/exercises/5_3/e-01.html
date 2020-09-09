@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercício - Parte 2</title>
+    <!-- Seu código JavaScript pode vir aqui -->
+    <!-- Seu código JavaScript pode vir aqui -->
+    <!-- Seu código JavaScript pode vir aqui -->
+  </head>
+  <body>
+    <div>
+      <h1>Exercício - Parte 2</h1>
+      <hr />
+      <h2>Tarefa 1</h2>
+      <p>
+        Adicione um botão HTML na área indicada abaixo. Usando um
+        <strong>EventListener</strong> adicione um evento ao botão, onde ao ser
+        clicado um alerta contendo a mensagem "Você clicou no botão" deverá ser
+        exibido.
+      </p>
+      <div class="tarefa1">Adicione o botão aqui!</div>
+      <hr />
+      <h2>Tarefa 2</h2>
+      <p>
+        Para realizar essa tarefa utilize à tag &lt;script&gt; abaixo. Você deve
+        declarar duas variáveis, uma chamada <strong>productPrice</strong> com o
+        valor <strong>59,99</strong> e a outra chamada
+        <strong>discount</strong> com o valor <strong>0,30</strong>. Na
+        sequência adicione um botão um botão HTML abaixo da tag &lt;script&gt; e
+        utilizando um <strong>EventListener</strong> adicione um evento a esse
+        botão, onde ao ser clicado deve-se multiplicar
+        <strong>productPrice</strong> por <strong>discount</strong> e então
+        exibir um alerta contendo a mensagem "Desconto de R$(resultado)", sendo
+        <strong>discount</strong> o resultado da multiplicação.
+      </p>
+      <button type="button" class="tarefa2">Botão2</button>
+
+      <script language="javascript" type="text/javascript">
+        //tarefa 1
+        let adicionarBotao = document.querySelector('.tarefa1');
+        adicionarBotao.innerHTML = "<button>Enviar</button>";
+        adicionarBotao.addEventListener('click', alerta);
+        function alerta() {
+          alert('Você clicou no botão');
+        }
+
+        //JavaScript para a tarefa 2
+        let productPrice = 59.99;
+        let discount = 0.30;
+        let result = productPrice * discount;
+        let button2 = document.querySelector(".tarefa2");
+        button2.addEventListener("click", function () {
+          alert("Desconto de R$" + result.toFixed(2) + "!");
+        });
+
+      </script>
+      <hr />
+      <h2>Bônus</h2>
+      <p>
+        Para essa última tarefa você irá precisar de duas imagens do mesmo
+        tamanho. Adicione uma imagem a está página usando uma tag HTML &lt;img
+        /&gt;. Usando os manipuladores de eventos
+        <strong>onMouseOver()</strong> e <strong>onMouseLeave()</strong>, faça com
+        que a imagem mude para a segunda imagem quando o ponteiro do mouse
+        passar sobre ela e, em seguida, voltar para a primeira imagem quando o
+        ponteiro do mouse for movido para fora da imagem.
+      </p>
+      <p>
+        Além disso, sempre que um dos eventos for realizado deve-se logar no
+        console qual dos eventos acabou de ocorrer.
+      </p>
+      <!-- Adicione a tag <img /> aqui -->
+      <img
+        class="bonus"
+        src="https://cdn.pixabay.com/photo/2015/11/17/13/13/dogue-de-bordeaux-1047521_960_720.jpg"
+        />
+
+    <script>
+      // Exercise 3
+      const elementImg = document.querySelector(".bonus");
+      elementImg.addEventListener("mouseover", function (evento) {
+        elementImg.src = "https://cdn.pixabay.com/photo/2016/10/31/14/55/rottweiler-1785760_960_720.jpg";
+        console.log("O evento foi:", evento.type);
+      });
+
+      elementImg.addEventListener("mouseleave", function (evento) {
+        elementImg.src = "https://cdn.pixabay.com/photo/2015/11/17/13/13/dogue-de-bordeaux-1047521_960_720.jpg";
+        console.log("O evento foi:", evento.type);
+      });
+    </script>
+    </div>
+  </body>
+</html> 
