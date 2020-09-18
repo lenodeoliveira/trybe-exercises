@@ -50,7 +50,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5-7: (Bônus) Projeto - Adivinhe a Cor
 - [ ] 5-7: (Bônus) Projeto - Carta Misteriosa
 
-#### Bloco 6: Desenvolvimento Front-end
+## Desenvolvimento Front-end :hourglass_flowing_sand: ## 
+
+#### Bloco 6: Introdução - Front-end
 
 - [x] 6-1: HTML & CSS Forms
 - [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS 
