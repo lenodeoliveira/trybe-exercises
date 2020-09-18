@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+    <h1>Meu Formulario</h1>
+    <div id="outputDiv" style="width: 200px; height: 75px; border: 1px solid;">
+    </div>
+
+        <form id="input" action="" method="post" enctype="multipart/form-data">
+            <fieldset>Digite seus dados:</fieldset>
+            <label for="name">Nome</label>
+            <input type="text" id="name" required="required" maxlength="40" onsubmit="return false" placeholder="Nome completo">
+            
+            <label for="email">E-mail</label>
+            <input type="text" id="email" required="required" maxlength="50" placeholder="Digite seu e-mail" >
+            
+            <label for="cpf">CPF</label>
+            <input type="text" id="cpf" required="required" maxlength="11"  placeholder="CPF">
+            
+            <label for="endereco">Endereço</label>
+            <input type="text" id="endereco" required="required" maxlength="200"  placeholder="Endereço">
+            
+            <label for="cidade">Cidade</label>
+            <input type="text" id="cidade" required="required" maxlength="28"  placeholder="Cidade">
+
+            <label for="estados">Estados</label>
+            <select required="required" id="estados"></select>
+
+            <label for="apartamento">Apartamento</label>
+            <input type="radio" value="ap" name="habita" id="apartamento">
+
+            <label for="casa">Casa</label>
+            <input type="radio" value="casa" name="habita" id="casa">
+
+            <fieldset>
+                <legend>Resumo do currículo</legend>
+                <textarea name="" maxlength="1000" id="resumo" cols="100" rows="10"></textarea>
+
+                <label for="cargo">Cargo</label>
+                <input type="text" required="required" name="cargo" maxlength="40" id="cargo">
+
+                <label for="descCargo">Descrição do cargo</label>
+                <textarea name="descCargo" id="descCargo" maxlength="500" cols="30" rows="10"></textarea>
+
+                <label for="data">Data de Inicio</label>
+                <input type="text" required="required" name="data" id="dataInicio">
+
+
+
+            </fieldset>
+            <button id="enviar" type="submit">Enviar</button>
+
+    </form>
+<script src="script.js"></script>
+</body>
+</html>
