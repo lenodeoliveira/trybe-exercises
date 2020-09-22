@@ -1,0 +1,22 @@
+/*
+
+To vertically position individual towers, use align-self, which accepts the same values as align-items.
+
+Use justify-content and align-self to move your towers into position.
+
+*/
+
+.tower-group-1 {
+    display: flex;
+    justify-content: space-between;
+    }
+    .tower-1-1 {
+    align-self: center;
+    }
+    .tower-1-2 {
+    }
+    .tower-1-3 {
+    align-self: flex-end;
+    }
+    .tower-1-4 {
+    }

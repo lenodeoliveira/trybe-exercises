@@ -1,0 +1,30 @@
+/*
+
+The super towers are in bad positions again, but this time you'll need to apply styles to the towers themselves.
+
+The order property defines the order in which an item appears in the flex container and accepts both positive and negative integer values. All flex items begin with a default order of 0, so an item with an order greater than 0 will be repositioned relative to items still set to their default orders.
+
+*/
+
+.tower-group-1 {
+display: flex;
+justify-content: space-around;
+}
+.tower-1-1 {
+}
+.tower-1-2 {
+order: 1;
+}
+.tower-1-3 {
+}
+.tower-group-2 {
+display: flex;
+justify-content: space-around;
+}
+.tower-2-1 {
+}
+.tower-2-2 {
+order: -1;
+}
+.tower-2-3 {
+}

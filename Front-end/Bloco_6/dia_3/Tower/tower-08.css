@@ -1,0 +1,17 @@
+/*
+
+Now flex-direction must be combined with a property you've learned previously. You'll be responsible for determining which one! Remember: flex-direction can change the directional layout of the axes.
+
+*/
+
+.tower-group-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    }
+    .tower-group-2 {
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    align-items:center;
+    }
