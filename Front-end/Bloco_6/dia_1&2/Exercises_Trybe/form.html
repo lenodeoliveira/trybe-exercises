@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bulma.min.css">
+    <link rel="stylesheet" href="css/DatePickerX.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Formulário currículo</title>
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title is-2">Currículo</h1>
+        </div>
+    </section>
+
+    <section class="section">
+    <form action="" class="js-form">
+    
+            <div class="field">
+                <label class="label" for="fname">Nome:</label>
+                 <div class="control">   
+                    <input class="input input-form" name="name" maxlength="40" data-validate-field="name" id="fname" type="text">
+                </div>
+             </div>
+            </div>    
+
+            <div class="field">
+                <label class="label" for="email">E-mail</label>
+                <div class="control">
+                  <input class="input input-form" type="email" maxlength="50" id="email" data-validate-field="email">
+                </div>   
+            </div>
+
+            <div class="field">
+                <div class="control">
+                 <label class="label" for="cpf">CPF</label>
+                 <input class="input input-form" type="text" id="cpf" maxlength="11" data-validate-field="cpf"  placeholder="CPF">
+                </div>
+             </div>   
+
+            <div class="field">
+               <div class="control">
+                 <label class="label" for="endereco">Endereço</label>
+                 <input class="input input-form" type="text" maxlength="200" id="endereco" data-validate-field="endereco"  placeholder="Endereço" class="input-form">
+                </div>
+            </div>   
+
+
+            <div class="field">
+                <label class="label" for="cidade">Cidade</label>
+              <div class="control">
+                <input class="input input-form" type="text" maxlength="28" id="cidade" data-validate-field="cidade"  placeholder="Cidade" class="input-form">
+               </div>
+             </div>   
+
+            <div class="field">
+                <label class="label" for="estados">Estados</label>
+                <div class="control">
+                
+                  <div class="select is-rounded is-hovered is-primary">
+                   
+                    <select class="input-form" data-validate-field="estados" id="estados"></select>
+        
+                  </div>
+                </div>
+            </div>
+            
+            <div class="field">    
+                <div class="control">
+                 
+                 <label class="radio" for="apartamento">Apartamento
+                    <input class="input-form" type="radio" value="apartamento" data-validate-field="radio" name="habita" id="apartamento">
+                 </label>
+
+                 <label class="radio" for="casa">Casa
+                   <input class="input-form" type="radio" value="casa" data-validate-field="radio" name="habita" id="casa">
+                </label>  
+             
+            </div>
+          </div>
+            
+          <div class="field">
+              <label class="label" for="resumo">Resumo</label>
+            <div class="control">
+              <textarea class="textarea input-form" maxlength="1000" data-validate-field="resumo" id="resumo" cols="100" rows="10"></textarea>
+            
+            </div>
+        </div>
+
+            <div class="field">
+                <label class="label" for="cargo">Cargo</label>
+                <div class="control">
+                <input class="input input-form" type="text" maxlength="40" id="cargo" data-validate-field="cargo"  placeholder="Cargo" class="input-form">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                 <label class="label" for="descCargo">Descrição do cargo</label>
+                 <textarea class="textarea input-form" name="descCargo" maxlength="500" id="descCargo" data-validate-field="descriCargo" cols="30" rows="10"></textarea>
+               </div>
+
+            </div>
+
+            <div class="field">
+                <div class="control">
+                   <label class="label" for="data">Data de Inicio</label>
+                   <input class="input input-form" type="text" data-validate-field="dataInicio" name="data" id="dataInicio">
+                </div>
+            </div>
+
+            <div class="field">
+                <div class="control">
+                    <button class="button is-primary" type="submit" id="btEnv">Enviar</button>
+                    <button  class="button is-danger" type="reset"  id="btReset">Limpar</button>
+
+                </div>
+            </div>
+    
+    </form>
+    </section>
+    <section class="section" id="response">
+
+    </section>
+
+    <script src="lib/just-validate.min.js"></script>
+    <script src="lib/DatePickerX.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>

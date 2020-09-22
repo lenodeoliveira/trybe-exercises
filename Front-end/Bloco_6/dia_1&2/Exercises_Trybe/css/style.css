@@ -1,0 +1,11 @@
+body {
+
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    background-color: #9370DB;
+}
+
+.date-picker-x{
+    background-color: #A020F0;
+} 
