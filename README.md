@@ -55,10 +55,54 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 #### Bloco 6: Introdução - Front-end
 
 - [x] 6-1: HTML & CSS Forms
-- [ ] 6-2: Bibliotecas JavaScript e Frameworks CSS 
-- [ ] 6-3: Introdução - CSS Flexbox
-- [ ] 6-3: CSS Flexbox - Parte 1
-- [ ] 6-4: CSS Flexbox - Parte 2  
-- [ ] 6-5: CSS Responsivo - Mobile First
-- [ ] 6-6: Projeto - Página inicial do Facebook
+- [x] 6-2: Bibliotecas JavaScript e Frameworks CSS 
+- [x] 6-3: Introdução - CSS Flexbox
+- [x] 6-3: CSS Flexbox - Parte 1
+- [x] 6-4: CSS Flexbox - Parte 2  
+- [x] 6-5: CSS Responsivo - Mobile First
+- [x] 6-6: Projeto - Página inicial do Facebook
+
+#### Bloco 7: JavaScript ES6 & Testes Unitários
+
+- [x] 7-1: JavaScript ES6 - let, const, arrow functions e template literals
+- [ ] 7-2: JavaScript ES6 - Objects
+- [ ] 7-3: Testes unitários em JavaScript
+- [ ] 7-4: Testando em pequenos passos
+- [ ] 7-5: Projeto - JavaScript Testes Unitários
+
+#### Bloco 8: JavaScript ES6
+
+- [ ] 8-1: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 8-2: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 8-3: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 8-4: JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [ ] 8-5: Projeto - Zoo functions
+
+#### Bloco 9: Assincronicidade & Callbacks
+
+- [ ] 9-1: JavaScript Assíncrono e Callbacks
+- [ ] 9-2: JavaScript Promises
+- [ ] 9-3: Projeto - Carrinho de Compras
+
+#### Bloco 10: Jest
+
+- [ ] 10-1: Primeiros passos no Jest
+- [ ] 10-2: Jest - Testes Assíncronos
+- [ ] 10-3: Jest - Simulando comportamentos
+- [ ] 10-4: Projeto - Jest Assíncrono e Mocking
+
+#### Bloco 11: Introdução - React
+
+- [ ] 11-1: Introdução - Front-end
+- [ ] 11-1: Introdução - React
+- [ ] 11-1: 'Hello, world!' no React
+- [ ] 11-2: Componentes React
+- [ ] 11-3: Projeto - Movie Cards Library
+
+#### Bloco 12: React 
+
+- [ ] 12-1: Componentes com estado e eventos
+- [ ] 12-2: Formulários no React
+- [ ] 12-3: Projeto - Movie Cards Library Stateful
+
 
