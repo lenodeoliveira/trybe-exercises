@@ -3,9 +3,9 @@ body {
     max-width: 800px;
     width: 100%;
     margin: auto;
-    background-color: #9370DB;
+    background-color: rgb(66, 103, 178);;
 }
 
 .date-picker-x{
-    background-color: #A020F0;
+    background-color: rgb(66, 103, 157);;
 } 
