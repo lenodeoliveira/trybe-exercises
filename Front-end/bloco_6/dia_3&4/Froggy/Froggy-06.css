@@ -1,0 +1,11 @@
+/*
+
+Lead the frog to the center of the pond using a combination of justify-content and align-items.
+
+*/
+
+#pond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
