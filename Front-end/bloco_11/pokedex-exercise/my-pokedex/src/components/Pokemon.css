@@ -1,0 +1,15 @@
+.pokemon {
+    display: inline-block;
+    border: solid 1px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 1em;
+}
+
+@media (max-width: 500px) {
+    .pokemon {
+        height: 10%;
+        width: 50%;
+        border: solid 1px;
+    }
+}
