@@ -1,0 +1,6 @@
+.App {
+   display:flex;
+    justify-content: center; 
+    background: linear-gradient(to right, rgb(0,195,255), rgb(255,255,28));
+    margin-top: 50px;
+}
