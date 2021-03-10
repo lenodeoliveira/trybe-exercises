@@ -50,7 +50,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 5-7: (Bônus) Projeto - Adivinhe a Cor
 - [ ] 5-7: (Bônus) Projeto - Carta Misteriosa
 
-## Desenvolvimento Front-end :hourglass_flowing_sand: ## 
+## Desenvolvimento Front-end :heavy_check_mark: ## 
 
 #### Bloco 6: Introdução - Front-end
 
