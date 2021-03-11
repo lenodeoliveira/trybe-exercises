@@ -101,8 +101,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 
 #### Bloco 12: React 
 
-- [ ] 12-1: Componentes com estado e eventos
-- [ ] 12-2: Formulários no React
-- [ ] 12-3: Projeto - Movie Cards Library Stateful
+- [x] 12-1: Componentes com estado e eventos
+- [x] 12-2: Formulários no React
+- [x] 12-3: Projeto - Movie Cards Library Stateful
+- [x] 13-1: Ciclo de vida de componentes
+
+
+
+
+
+
+
 
 
