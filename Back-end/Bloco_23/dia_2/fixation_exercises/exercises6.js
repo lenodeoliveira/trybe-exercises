@@ -1,0 +1,1 @@
+db.restaurants.find({ rating: { $not: { $lte: 5 } } }).count();
