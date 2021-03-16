@@ -1,0 +1,25 @@
+# :rocket: Updates complexos - Arrays - Parte 2  :rocket:
+
+- [x] 1: Utilizando o operador $all , retorne todos os filmes que contenham action e adventure no array category.
+- [x] 2: Agora retorne os filmes que contenham action no array category e possuem nota do ****IMDB maior do que 7.
+- [x] 3: Adicione um array chamado ratings ao filme Batman com os seguintes valores: [85, 100, 102, 105].
+- [x] 4: Adicione um array chamado ratings ao filme Godzilla com os seguintes valores: [78, 52, 95, 102].
+- [] 5: Adicione um array chamado ratings ao filme Home Alone com os seguintes valores: [200, 99, 65] .
+- [] 6:
+- [] 7:
+- [] 8:
+- [] 9:
+- [] 10:
+- [] 11:
+- [] 12:
+- [] 13:
+- [] 14:
+- [] 15:
+- [] 16:
+- [] 17:
+- [] 18:
+- [] 19:
+- [] 20:
+- [] 21:
+- [] 22:
+- [] 23:
