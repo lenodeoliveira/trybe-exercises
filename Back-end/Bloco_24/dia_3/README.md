@@ -1,19 +1,19 @@
-# :rocket: Updates complexos - Arrays - Parte 2  :rocket:
+# :rocket: Updates complexos - Arrays - Parte 2 :rocket:
 
 - [x] 1: Utilizando o operador $all , retorne todos os filmes que contenham action e adventure no array category.
-- [x] 2: Agora retorne os filmes que contenham action no array category e possuem nota do ****IMDB maior do que 7.
+- [x] 2: Agora retorne os filmes que contenham action no array category e possuem nota do \*\*\*\*IMDB maior do que 7.
 - [x] 3: Adicione um array chamado ratings ao filme Batman com os seguintes valores: [85, 100, 102, 105].
 - [x] 4: Adicione um array chamado ratings ao filme Godzilla com os seguintes valores: [78, 52, 95, 102].
-- [] 5: Adicione um array chamado ratings ao filme Home Alone com os seguintes valores: [200, 99, 65] .
-- [] 6:
-- [] 7:
-- [] 8:
-- [] 9:
-- [] 10:
-- [] 11:
-- [] 12:
-- [] 13:
-- [] 14:
+- [x] 5: Adicione um array chamado ratings ao filme Home Alone com os seguintes valores: [200, 99, 65] .
+- [x] 6: Retorne todos os filmes com ratings maior do que 103 , exibindo apenas os campos title e ratings .
+- [x] 7: Retorne todos os filmes com ratings entre 100 e 105 , exibindo apenas os campos title e ratings.
+- [x] 8: Retorne todos os filmes com ratings entre 64 e 105 e divisíveis por 9 , exibindo apenas os campos title e ratings.
+- [x] 9: Retorne os filmes da categoria adventure e com ratings maior do que 103 , exibindo apenas os campos title , ratings e category .
+- [x] 10: Retorne somente o título de todos os filmes com dois elementos no array category.
+- [x] 11: Retorne somente o título de todos os filmes com quatro elementos no array ratings.
+- [x] 12: Busque os filmes em que o módulo 5 do campo budget seja 0 e que o array category tenha tamanho 2.
+- [x] 13: Retorne os filmes da categoria "sci-fi" ou que possua o ratings maior do que 199 , exibindo apenas os campos title , ratings e category.
+- [] 14: Retorne os filmes em que o ratings possua tamanho 4 e que seja da category "adventure" ou "family" , mas que não tenha o imdbRating menor que 7.
 - [] 15:
 - [] 16:
 - [] 17:
