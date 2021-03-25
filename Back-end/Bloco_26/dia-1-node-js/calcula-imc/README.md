@@ -7,7 +7,7 @@
 - [x] : implementado algoritmo para realizar o cálculo do IMC;
 - [x] : instalado o pacote Inquirer para interação do usuário com linha de comando;
 - [x] : realizada as validações dos campos de entrada de peso e altura;
-- [x] : instalado o pacode para estilizar o terminal.
+- [x] : instalado o pacode chalk para estilizar o terminal.
 
 Calculando IMC:
 <img src="https://github.com/lenodeoliveira/trybe-exercises/blob/main/Back-end/Bloco_26/dia-1-node-js/calcula-imc/git1.gif" width="900" height="210" />
