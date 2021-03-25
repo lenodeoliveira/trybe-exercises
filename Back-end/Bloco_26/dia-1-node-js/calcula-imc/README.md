@@ -10,7 +10,9 @@
 - [x] : instalado o pacode para estilizar o terminal.
 
 Calculando IMC:
-![gifimc](https://github.com/lenodeoliveira/trybe-exercises/blob/main/Back-end/Bloco_26/dia-1-node-js/calcula-imc/git1.gif)
+<img src="https://github.com/lenodeoliveira/trybe-exercises/blob/main/Back-end/Bloco_26/dia-1-node-js/calcula-imc/git1.gif" width="900" height="210" />
+
 
 Testes de entradas de dados:
-![gif imc]('./gifs/git2.gif')
+
+<img src="https://github.com/lenodeoliveira/trybe-exercises/blob/main/Back-end/Bloco_26/dia-1-node-js/calcula-imc/git2.gif" width="900" height="210" />
