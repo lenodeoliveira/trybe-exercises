@@ -1,6 +1,6 @@
 ## :green_book: EXERCÍCIOS AULA 1 NODE JS :rocket:
 
-- Exercício realizado utilizando node js v14.16.0
+### Exercício realizado utilizando node js v14.16.0
 
 * Tarefas realizadas
 
