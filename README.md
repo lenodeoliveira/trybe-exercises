@@ -1,4 +1,4 @@
-# Trybe repository
+# Trybe repository :open_file_folder:
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [J. Lennon Silva de oliveira](https://www.linkedin.com/in/johnlennondeoliveira/) enquanto estudava na Trybe :rocket: :brazil:
 
