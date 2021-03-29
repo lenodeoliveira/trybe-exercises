@@ -215,7 +215,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 01: NodeJS - JWT - (JSON Web Token);
 - [ ] 02: NodeJS - Upload de arquivos com Multer;
 - [ ] 03: Projeto - Cookmaster.
--
 
 #### Bloco 29: Deployment
 
@@ -223,7 +222,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 01: Infraestrutura - Deploy com Heroku;
 - [ ] 02: Deploy - Gerenciadores de Processos;
 - [ ] 03: Projeto - Stranger Things.
--
 
 #### Bloco 30: Projeto Trybeer :beer:
 
@@ -236,7 +234,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [ ] 03: ORM - Associations;
 - [ ] 04: Boas práticas na escrita de testes;
 - [ ] 05: Projeto - API de Blogs.
--
 
 #### Bloco 32: Sockets
 
