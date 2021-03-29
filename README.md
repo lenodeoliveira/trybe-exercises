@@ -122,7 +122,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 03: RTL - Testando React Router;
 - [x] 04: Projeto - Testes em React.
 
-#### 16: Gerenciamento de estado com Redux
+#### Bloco 16: Gerenciamento de estado com Redux
 
 - [x] 01: Introdução ao Redux - O estado global da aplicação
 - [x] 02: Usando o Redux no React;
@@ -131,17 +131,120 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 05: Testes em React-Redux;
 - [x] 06: Projeto - Trybe Wallet.
 
-#### 17: Projeto Jogo de Trivia
+#### Bloco 17: Projeto Jogo de Trivia
 
 - [x] 01: Projeto - Jogo de Trivia.
 
-#### 18: Context API e React hooks
+#### Bloco 18: Context API e React hooks
 
 - [x] 01:Context API do React;
 - [x] 02: React Hooks - useSate e useContext;
 - [x] 03: React Hooks - useEffect e Hooks customizados;
 - [x] 04: Projeto - StarWars Datatable com Context API e Hooks.
 
-#### 19: Projeto App de Receitas
+#### Bloco 19: Projeto App de Receitas
 
 - [x] 01: Projeto App de Receitas.
+
+## Desenvolvimento Back-end :hourglass:
+
+#### Bloco 20: Introdução à SQL
+
+- [x] 01: Introdução - Back-end;
+- [x] 01: Introdução - Banco de dados relacionais;
+- [x] 01: Banco de dados SQL;
+- [x] 02: Encontrando dados em um banco de dados;
+- [x] 03: Filtrando dados de forma específica;
+- [x] 04: Manipulando tabelas;
+- [x] 05: Projeto - All For One.
+
+#### Bloco 21: Funções SQL, Joins e Subqueries
+
+- [x] 01: Funções mais usadas no SQL;
+- [x] 02: Descomplicando JOINS, UNIONs e Subqueries;
+- [x] 03: Stored Routines & Stored Functions;
+- [x] 04: Projeto - Vocabulary Booster.
+
+#### Bloco 22: Normalização e Modelagem de Banco de Dados
+
+- [x] 01: Transformando ideias em um modelo de banco de dados;
+- [x] 02: Normalização, Formais Normais e Dumps;
+- [x] 03: Transformando ideias em um modelo de banco de dados - Parte 2;
+- [x] 04: Projeto - One For All.
+
+#### Bloco 23: Introdução ao MongoDB
+
+- [x] 01: Introdução - NoSQL;
+- [x] 02: MongoDB - Introdução;
+- [x] 03: Filter Operators;
+- [x] 04: Projeto - Data Flights.
+
+#### Bloco 24: MongoDB: Updates Simples e Complexos
+
+- [x] 01: Updates Simples;
+- [x] 02: Updates Complexos - Arrays - Parte 1;
+- [x] 03: Upadates Complexos - Arrays - Parte 2;
+- [x] 04: Projeto - Commerce.
+
+#### Bloco 25: MongoDB: Aggregation Framework
+
+- [x] 01: Aggregation Framework - Parte 1;
+- [x] 02: Aggregation Framework - Parte 2;
+- [x] 03: Projeto - Aggregations.
+
+#### Bloco 26: Introdução ao Desenvolvimento Web com NodeJS
+
+- [x] 01: Intro - NodeJS;
+- [x] 01: Node.js - Introdução;
+- [x] 02: NodeJS - Fluxo Assíncrono;
+- [x] 03: NodeJS - Arquitetura;
+- [ ] 04: Express: HTTP com Node.js;
+- [ ] 05: Praticando Express;
+- [ ] 06: Projeto - Crush Manager.
+
+#### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
+
+- [ ] 01: Introdução - Arquitetura de Software;
+- [ ] 01: Arquitetura de Software - Camada de Model;
+- [ ] 02: Arquitetura de Software - Camada de Cotroller e Service;
+- [ ] 03: Arquitetura web - Rest e Restful;
+- [ ] 04: Projeto - Store Manager.
+
+#### Bloco 28: Autenticação e Upload de Arquivos
+
+- [ ] 01: NodeJS - JWT - (JSON Web Token);
+- [ ] 02: NodeJS - Upload de arquivos com Multer;
+- [ ] 03: Projeto - Cookmaster.
+-
+
+#### Bloco 29: Deployment
+
+- [ ] 01: Introdução - Deploy;
+- [ ] 01: Infraestrutura - Deploy com Heroku;
+- [ ] 02: Deploy - Gerenciadores de Processos;
+- [ ] 03: Projeto - Stranger Things.
+-
+
+#### Bloco 30: Projeto Trybeer :beer:
+
+- [ ] 01: Projeto Trybeer.
+
+#### Bloco 31: Arquitetura: SOLID e ORM
+
+- [ ] 01: Arquitetura - Princípios SOLID;
+- [ ] 02: ORM - Interface da aplicação com o banco de dados;
+- [ ] 03: ORM - Associations;
+- [ ] 04: Boas práticas na escrita de testes;
+- [ ] 05: Projeto - API de Blogs.
+-
+
+#### Bloco 32: Sockets
+
+- [ ] 01: Arquitetura de Software - Camada de View;
+- [ ] 02: Sockets - TCP/UDP & NET;
+- [ ] 03: Sockets - Socket.io;
+- [ ] 04: Projeto - Webchat.
+
+#### Bloco 33: Projeto Trybeer II :beer:
+
+- [ ] 01: Projeto Trybeer v2.
