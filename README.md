@@ -198,13 +198,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - [x] 01: Node.js - Introdução;
 - [x] 02: NodeJS - Fluxo Assíncrono;
 - [x] 03: NodeJS - Arquitetura;
-- [ ] 04: Express: HTTP com Node.js;
-- [ ] 05: Praticando Express;
-- [ ] 06: Projeto - Crush Manager.
+- [x] 04: Express: HTTP com Node.js;
+- [x] 05: Praticando Express;
+- [x] 06: Projeto - Crush Manager.
 
 #### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 01: Introdução - Arquitetura de Software;
+- [x] 01: Introdução - Arquitetura de Software;
 - [ ] 01: Arquitetura de Software - Camada de Model;
 - [ ] 02: Arquitetura de Software - Camada de Cotroller e Service;
 - [ ] 03: Arquitetura web - Rest e Restful;
