@@ -1,2 +1,0 @@
-## :rocket: EXERCÍCIOS AULA NODE-JS E ARQUITETURA :house:
-
