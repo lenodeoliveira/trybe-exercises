@@ -204,13 +204,13 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma 
 
 - [x] 01: Introdução - Arquitetura de Software;
 - [x] 01: Arquitetura de Software - Camada de Model;
-- [ ] 02: Arquitetura de Software - Camada de Cotroller e Service;
-- [ ] 03: Arquitetura web - Rest e Restful;
-- [ ] 04: Projeto - Store Manager.
+- [x] 02: Arquitetura de Software - Camada de Cotroller e Service;
+- [x] 03: Arquitetura web - Rest e Restful;
+- [x] 04: Projeto - Store Manager.
 
 #### Bloco 28: Autenticação e Upload de Arquivos
 
-- [ ] 01: NodeJS - JWT - (JSON Web Token);
+- [x] 01: NodeJS - JWT - (JSON Web Token);
 - [ ] 02: NodeJS - Upload de arquivos com Multer;
 - [ ] 03: Projeto - Cookmaster.
 
