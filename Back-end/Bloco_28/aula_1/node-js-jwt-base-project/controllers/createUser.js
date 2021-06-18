@@ -4,7 +4,7 @@ module.exports = async (req, res) => {
   try {
     const username = await Model.registerUser(
       req.body.username,
-      req.body.password
+      req.body.password,
     );
     if (!username) throw Error;
     res.status(201).json({ message: 'Novo usuário', user: username });
