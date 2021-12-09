@@ -223,23 +223,23 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma 
 
 #### Bloco 30: Projeto Trybeer :beer:
 
-- [ ] 01: Projeto Trybeer.
+- [x] 01: Projeto Trybeer.
 
 #### Bloco 31: Arquitetura: SOLID e ORM
 
-- [ ] 01: Arquitetura - Princípios SOLID;
-- [ ] 02: ORM - Interface da aplicação com o banco de dados;
-- [ ] 03: ORM - Associations;
-- [ ] 04: Boas práticas na escrita de testes;
-- [ ] 05: Projeto - API de Blogs.
+- [x] 01: Arquitetura - Princípios SOLID;
+- [x] 02: ORM - Interface da aplicação com o banco de dados;
+- [x] 03: ORM - Associations;
+- [x] 04: Boas práticas na escrita de testes;
+- [x] 05: Projeto - API de Blogs.
 
 #### Bloco 32: Sockets
 
-- [ ] 01: Arquitetura de Software - Camada de View;
-- [ ] 02: Sockets - TCP/UDP & NET;
-- [ ] 03: Sockets - Socket.io;
-- [ ] 04: Projeto - Webchat.
+- [x] 01: Arquitetura de Software - Camada de View;
+- [x] 02: Sockets - TCP/UDP & NET;
+- [x] 03: Sockets - Socket.io;
+- [x] 04: Projeto - Webchat.
 
 #### Bloco 33: Projeto Trybeer II :beer:
 
-- [ ] 01: Projeto Trybeer v2.
+- [x] 01: Projeto Trybeer v2.
