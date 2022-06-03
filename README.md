@@ -4,7 +4,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma carreira de sucesso em tecnologia. O programa conta com cerca de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."_
 
-## Introdução - Desenvolvimento Web :heavy_check_mark:
+## Introdução - Desenvolvimento Web ✅
 
 #### Bloco 1: Introdução - Unix & Shell
 
@@ -47,7 +47,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma 
 - [ ] 5-7: (Bônus) Projeto - Adivinhe a Cor;
 - [ ] 5-7: (Bônus) Projeto - Carta Misteriosa.
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end ✅
 
 #### Bloco 6: Introdução - Front-end
 
@@ -144,7 +144,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma 
 
 - [x] 01: Projeto App de Receitas.
 
-## Desenvolvimento Back-end :hourglass:
+## Desenvolvimento Back-end ✅
 
 #### Bloco 20: Introdução à SQL
 
