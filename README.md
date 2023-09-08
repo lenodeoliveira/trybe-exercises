@@ -211,15 +211,15 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira construir uma 
 #### Bloco 28: Autenticação e Upload de Arquivos
 
 - [x] 01: NodeJS - JWT - (JSON Web Token);
-- [ ] 02: NodeJS - Upload de arquivos com Multer;
-- [ ] 03: Projeto - Cookmaster.
+- [x] 02: NodeJS - Upload de arquivos com Multer;
+- [x] 03: Projeto - Cookmaster.
 
 #### Bloco 29: Deployment
 
-- [ ] 01: Introdução - Deploy;
-- [ ] 01: Infraestrutura - Deploy com Heroku;
-- [ ] 02: Deploy - Gerenciadores de Processos;
-- [ ] 03: Projeto - Stranger Things.
+- [x] 01: Introdução - Deploy;
+- [x] 01: Infraestrutura - Deploy com Heroku;
+- [x] 02: Deploy - Gerenciadores de Processos;
+- [x] 03: Projeto - Stranger Things.
 
 #### Bloco 30: Projeto Trybeer :beer:
 
